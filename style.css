@@ -1,0 +1,30 @@
+body {
+    background-color: aliceblue;
+}
+
+.first {
+    border-style: dotted;
+    padding: 10px;
+    border-color:blue;
+    display: flex;
+    flex-direction: row;
+    }
+
+.firstdiv {
+    border-style: double;
+    margin: 30px;
+    padding: 20px;
+    border-color: blueviolet;
+    display: flex;
+    flex-direction: column-reverse;
+}
+
+.seconddiv {
+    border-style: solid;
+    margin: 30px;
+    padding: 20px;
+    border-color: crimson;
+    display: flex;
+    flex-direction: column;
+}
+
